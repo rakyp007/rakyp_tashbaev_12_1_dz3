@@ -1,0 +1,13 @@
+.News {
+    display: flex;
+  border-bottom: 1px solid #ccc;
+  padding: 20px;
+    margin-left: 350px;
+  }
+  
+  
+  .link {
+    margin-right: 80px;
+    font-size: 18px;
+    list-style-type: none;
+  }
